@@ -12778,7 +12778,7 @@ body:not(.device-touch) .clients-grid .grid-item a {
   margin-top: 10px;
   font-size: 15px;
   font-weight: bold;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 
 .testi-meta::before {
